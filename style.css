@@ -112,6 +112,7 @@ span:hover{
     }
     .row{
     justify-content: center;
+    background-color: transparent;
     }
     input, button{
     padding: 10px 10px;
